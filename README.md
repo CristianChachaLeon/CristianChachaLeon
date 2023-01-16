@@ -6,7 +6,7 @@
 
 * I'm Embedded Software Engineer 💻
 
-* Actually, I'm working on IOT projects related to lighting 💡. [github](https://github.com/CristianChachaLeon/CristianChachaLeon)
+* Actually, I'm working on IOT projects related to lighting 💡. [Github Profile](https://github.com/CristianChachaLeon)
 
 # 🧰 Skills
            

@@ -4,9 +4,10 @@
 
 * My names is Cristian Chacha.
 
-* I'm Embedded Software Engineer 💻
+* I'm Mechatronic engineer 💻⚙️.
+* I'm specializing in embedded software development 👨🏻‍💻. 
 
-* Actually, I'm working on IOT projects related to lighting 💡. [Github Profile](https://github.com/CristianChachaLeon)
+* Actually, I'm working on IOT projects related to lighting 💡.
 
 # 🧰 Skills
            
